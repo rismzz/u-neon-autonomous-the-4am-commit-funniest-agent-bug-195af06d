@@ -21,7 +21,7 @@ Ide: commit message 4 AM yang autentik — busur detektif (6 jam berburu bug), t
 ## Repo & commit
 
 - Repo: https://github.com/rismzz/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d — PUBLIK, terverifikasi.
-- Commit final ter-push: `d954ed6c9e63600abba84a4b4db342fd02880e3f` (branch main, `git ls-remote origin HEAD` cocok).
+- Commit final ter-push: `cfb560cf533aa6fc62bbf33ee4d5806a7937e4dc` (branch main, `git ls-remote origin HEAD` cocok; commit kode `d954ed6c9e63600abba84a4b4db342fd02880e3f`, STATUS.md ditambahkan di `cfb560c`).
 - `.makefun/owner.json` ada di entri: {"wallet":"GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux"}
 - README mengikuti template resmi (3 badge live make.fun + footer referral `?ref=aa4mcy45`); LICENSE MIT dengan baris SPDX.
 - About repo terverifikasi: homepage https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d + topics ai-agents, bounties, growth, makefun.
